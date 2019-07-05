@@ -1,7 +1,7 @@
 {
   "bot": {
-    "token": "<token goes here>",
-    "prefix": "!",
+    "token": "NTkyNDYyNDAwNTkxMjMzMDQ0.XR-8Yg.UgSSZNAkXs0LOUXWerebEcSG-K0",
+    "prefix": "m!",
     "disabledEvents": ["TYPING_START"],
     "tumblr": {
       "apikey": "<consumer_key goes here>"
